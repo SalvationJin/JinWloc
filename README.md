@@ -1,0 +1,35 @@
+# JinWloc
+
+个人 WLOC 模块仓库（accuracy=10，仅保留 4 个 MITM 主机名）
+
+## 订阅地址
+
+| 客户端 | 订阅地址 |
+| --- | --- |
+| Shadowrocket | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.module |
+| Surge / Egern | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.sgmodule |
+| Quantumult X | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.conf |
+| Loon | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.lpx |
+| Stash | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.stoverride |
+
+## MITM 主机名
+
+```
+gs-loc.apple.com
+gs-loc-cn.apple.com
+bluedot.is.autonavi.com
+bluedot.is.autonavi.com.gds.alibabadns.com
+```
+
+## 快捷指令
+
+| 用途 | 链接 |
+| --- | --- |
+| 设置位置 | https://www.icloud.com/shortcuts/825cf916624d421ea5cf9108dd26a8d8 |
+| 恢复位置 | https://www.icloud.com/shortcuts/18fe8a25ca9f4800a0bf450da5f36d15 |
+
+## 说明
+
+- 模块精度已设为 `accuracy=10`
+- 脚本从 `SalvationJin/wloc` 的 dist 加载
+- MITM 仅保留上面 4 个域名
