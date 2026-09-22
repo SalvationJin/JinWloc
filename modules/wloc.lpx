@@ -8,7 +8,7 @@
 [Argument]
 longitude = input, "113.94114", tag=经度(在线选点优先)
 latitude = input, "22.544577", tag=纬度(在线选点优先)
-accuracy = input, "25", tag=精度(米)
+accuracy = input, "10", tag=精度(米)
 randomRadius = input, "0", tag=扰动半径(米，0为关闭)
 logLevel = select, "info", "off", "error", "warn", "debug", "all", tag=日志级别
 
