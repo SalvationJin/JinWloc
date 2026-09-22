@@ -23,5 +23,6 @@ bluedot.is.autonavi.com.gds.alibabadns.com
 
 ## 说明
 
-- 只包含模块和运行所需的 `dist` 脚本
-- 完全独立，不依赖其他仓库
+- 只包含模块定义
+- 脚本从 `SalvationJin/wloc` 的 dist 加载（同为你的公开仓库）
+- MITM 已按要求只保留上面 4 个域名
