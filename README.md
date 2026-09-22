@@ -1,25 +1,22 @@
 # JinWloc
-
 个人 WLOC 模块仓库
-
-## MITM 主机名
-
-```
-gs-loc.apple.com
-gs-loc-cn.apple.com
-bluedot.is.autonavi.com
-bluedot.is.autonavi.com.gds.alibabadns.com
-
 ## 订阅地址
 
 | 客户端 | 订阅地址 |
-| --- | --- |
 | Shadowrocket | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.module |
 | Surge / Egern | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.sgmodule |
 | Quantumult X | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.conf |
 | Loon | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.lpx |
 | Stash | https://raw.githubusercontent.com/SalvationJin/JinWloc/refs/heads/main/modules/wloc.stoverride |
 
+
+
+## MITM 主机名
+
+gs-loc.apple.com
+gs-loc-cn.apple.com
+bluedot.is.autonavi.com
+bluedot.is.autonavi.com.gds.alibabadns.com
 ## 快捷指令
 
 | 用途 | 链接 |
