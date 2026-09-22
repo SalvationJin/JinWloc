@@ -1,6 +1,6 @@
 # JinWloc
 
-个人 WLOC 模块仓库（accuracy=10，仅保留 4 个 MITM 主机名）
+个人 WLOC 模块仓库
 
 ## 订阅地址
 
@@ -31,5 +31,4 @@ bluedot.is.autonavi.com.gds.alibabadns.com
 ## 说明
 
 - 模块精度已设为 `accuracy=10`
-- 脚本从 `SalvationJin/wloc` 的 dist 加载
 - MITM 仅保留上面 4 个域名
