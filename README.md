@@ -1,6 +1,6 @@
 # JinWloc
 
-个人 WLOC 模块仓库（仅保留 4 个 MITM 主机名）
+个人 WLOC 模块仓库
 
 ## MITM 主机名
 
@@ -9,7 +9,6 @@ gs-loc.apple.com
 gs-loc-cn.apple.com
 bluedot.is.autonavi.com
 bluedot.is.autonavi.com.gds.alibabadns.com
-```
 
 ## 订阅地址
 
